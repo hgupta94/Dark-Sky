@@ -10,7 +10,7 @@ from forecastiopy import *
 import pandas as pd
 import numpy as np
 
-api_key = '27744a89be3f482df1151b3cc340cbc0'
+api_key = 'ENTER API KEY'
 
 loc = [\
   [ "Anchorage, Alaska", 61.2181, -149.9003 ],\
